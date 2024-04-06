@@ -22,7 +22,7 @@
 * You can start the server in development mode using nodemon by running:
   - yarn dev
   - Or start the server in production mode using:
-  - yarn star
+  - yarn start
 ## Run Tests:
 To run unit and integration tests using Jest, execute:
 * yarn test
