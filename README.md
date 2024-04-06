@@ -1,4 +1,4 @@
-# here are the setup instructions and notes on how to build the Employee Management System backend application using Node.js, Express, Prisma, MongoDB, Jest, Joi, and other dependencies listed in your package.json:
+# here are the setup instructions and notes on how to build the Employee Management System backend:
 
 # Setup Instructions:
 ## Clone the Repository: Clone the repository containing the project files to your local machine.
@@ -19,13 +19,12 @@
 
 * npx prisma generate
 ## Start the Server:
- You can start the server in development mode using nodemon by running:
-yarn dev
-Or start the server in production mode using:
-yarn star
+* You can start the server in development mode using nodemon by running:
+  - yarn dev
+  - Or start the server in production mode using:
+  - yarn star
 ## Run Tests:
 To run unit and integration tests using Jest, execute:
-
 * yarn test
 
 # Notes:
