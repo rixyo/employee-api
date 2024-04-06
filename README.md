@@ -30,6 +30,6 @@ To run unit and integration tests using Jest, execute:
 # Notes:
 * Prisma: Prisma is used as an ORM (Object-Relational Mapping) tool to interact with the database.Ensure that you have Prisma CLI installed globally (npm install -g prisma).
 * Joi: Joi is used for input validation. You can define validation schemas using Joi to validate incoming requests.
-* Jest: Jest is the testing framework used for unit and integration testing. Jest MongoDB package (@shelf/jest-mongodb) is used to mock MongoDB for testing purposes.
+* Jest: Jest is the testing framework used for unit and integration testing.
 * Express: Express is used as the web server framework to handle HTTP requests.
 * dotenv: dotenv is used to load environment variables from a .env file into process.env.
